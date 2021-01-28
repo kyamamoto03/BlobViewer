@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobViewer", "BlobViewer\BlobViewer.csproj", "{27CB6D77-42B6-4BC5-97D2-2DF38E7A0C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CB6D77-42B6-4BC5-97D2-2DF38E7A0C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CB6D77-42B6-4BC5-97D2-2DF38E7A0C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CB6D77-42B6-4BC5-97D2-2DF38E7A0C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CB6D77-42B6-4BC5-97D2-2DF38E7A0C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A755C6-0E6F-4CBB-BEB1-58078DA4F07C}
+	EndGlobalSection
+EndGlobal
